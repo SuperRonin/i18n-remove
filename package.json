@@ -1,0 +1,30 @@
+{
+  "name": "@bellacocool/i18n-remove",
+  "version": "0.1.1",
+  "description": "Delete and replace internationalized content in web projects in batches",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./bin/index.js"
+  },
+  "bin": {
+    "i18nrm": "./bin/index.js"
+  },
+  "keywords": [
+    "i18n",
+    "i18n-del",
+    "i18n-remove",
+    "del-i18n",
+    "removew-i18n"
+  ],
+  "author": "xuexingwei20@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
