@@ -15,7 +15,7 @@
     "i18n-del",
     "i18n-remove",
     "del-i18n",
-    "removew-i18n"
+    "remove-i18n"
   ],
   "repository": {
     "type": "git",
